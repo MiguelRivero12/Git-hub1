@@ -8,3 +8,7 @@ git push
 nano readme.md 
 ## State of the computer  
 git status 
+# Save files
+ git commit -m "mensaje"
+git pull <nombre-remoto>
+
