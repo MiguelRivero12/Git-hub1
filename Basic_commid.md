@@ -3,3 +3,5 @@
 From the beginning you must create a folder if you want to start a new project, you must perform a commit to preserve the files, and to create that commit you must add a folder and a file to save
 # Push to a remote repository
   To upload or insert your file into "github", you need to create a repository so that the editor information goes to the repository and you have everything on github, with the "git push" command you update your repository that is on github
+## Branches: create, delete, save/commit & merge  
+The branches help to create diretent king of files, whit out lossing the properties of each one, and the comand is "git brach" You can create diferents branches.
